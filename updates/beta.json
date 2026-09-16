@@ -1,1 +1,14 @@
-{"versionCode":31,"versionName":"1.0.0-beta","channel":"beta","apkUrl":"https://raw.githubusercontent.com/msalcedofernand-afk/sales-network-app-releases/beta/releases/sales-network-beta.apk","releaseNotes":"Beta con aplicación separada y resumen del líder plegable.","mandatory":false}
+{
+  "schemaVersion": 1,
+  "versionCode": 450038,
+  "versionName": "1.2.0-beta.38",
+  "channel": "beta",
+  "apkUrl": "https://raw.githubusercontent.com/msalcedofernand-afk/sales-network-app-releases/beta/releases/sales-network-beta-v1.2.0-beta.38-code450038.apk",
+  "sha256": "8fae32f69daff423eb0c6463c9ec603a7e342efaaea53b7869003e1497a3aef5",
+  "minSupportedVersionCode": 450038,
+  "releasedAt": "2026-09-16T01:45:44.6679701Z",
+  "releaseNotes": [
+    "Sesión y actualizaciones reforzadas.",
+    "Invitaciones y caché segura corregidas."
+  ]
+}
