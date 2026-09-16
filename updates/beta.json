@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "versionCode": 450038,
-  "versionName": "1.2.0-beta.38",
+  "versionCode": 450039,
+  "versionName": "1.2.0-beta.39",
   "channel": "beta",
-  "apkUrl": "https://raw.githubusercontent.com/msalcedofernand-afk/sales-network-app-releases/beta/releases/sales-network-beta-v1.2.0-beta.38-code450038.apk",
-  "sha256": "8fae32f69daff423eb0c6463c9ec603a7e342efaaea53b7869003e1497a3aef5",
-  "minSupportedVersionCode": 450038,
-  "releasedAt": "2026-09-16T01:45:44.6679701Z",
+  "apkUrl": "https://raw.githubusercontent.com/msalcedofernand-afk/sales-network-app-releases/beta/releases/app-beta-debug-450039.apk",
+  "sha256": "62acce01626583dcbea88542246b85c7ff10b6b9f0a1354db3f840c9274ebc4d",
+  "minSupportedVersionCode": 450039,
+  "releasedAt": "2026-09-16T01:55:39.1269746Z",
   "releaseNotes": [
     "Sesión y actualizaciones reforzadas.",
     "Invitaciones y caché segura corregidas."
